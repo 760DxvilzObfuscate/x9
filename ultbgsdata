@@ -16,7 +16,8 @@ return {
 		7396362656,
 		7396338921,
 		8333076550,
-                8333241406
+		8333241406,
+		7283793207
 	},
 	Toxic = {
 		"ez",
@@ -69,5 +70,41 @@ return {
 		"eat concrete",
 		"pavement boy",
 		"i am inevitable",
+		"concrete eater",
+		"you are the next gojo",
+		"my skill is beyond imaginable",
+		"ah yes, my anti bot technique i haven't used since the heian era",
+		"i neg diff you bot",
+		"laying on the concrete is where you belong",
+		"you are the worst i have ever seen",
+		"holy you yap too much",
+		"yappinese is not a language i understand",
+		"the greatest yapper in history",
+		"my skill is beyond comparison, i am the honored one!",
+		"my spamming is beyond all techniques MONKEY!",
+		"ah yes, my anti monkey technique i haven't used since the heian era",
+		"i am the greatest to ever touch this game",
+		"my skill goes beyond all expectations",
+		"throughout heaven and earth. i alone am the honored one..",
+		"you are beneath me",
+		"what a mongrel",
+		"what utter trash"
+	},
+	Depressed = {
+		"my ego is lower than my self esteem",
+		"my self esteem is very low and i'm a depressed person.. 😔",
+		"i don't believe in my own worth..",
+		"my family doesn't believe in me..",
+		"my mom told me i was a mistake.",
+		"my dad beats me..",
+		"i'm so lonely..",
+		"nobody wants to be my friend..",
+		"they all say i'm so weird..",
+		"i don't feel good.. mentally..",
+		"nobody offers me help",
+		"nobody understands my pain",
+		"my therapist said i am crazy",
+		"i am not okay mentally, my thoughts are all jumbled",
+		"the pain i feel is mentally not physically"
 	}
 }
